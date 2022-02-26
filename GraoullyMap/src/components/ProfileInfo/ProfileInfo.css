@@ -1,0 +1,14 @@
+.profileInfo {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.profileInfoData {
+    display: flex;
+    align-items: center;
+}
+
+.profileInfoData img {
+    padding: 0 40px 0 20px;
+}
